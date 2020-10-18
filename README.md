@@ -1,6 +1,6 @@
 # countries
 
-A new Flutter application.
+A basic flutter application using free countries api - (https://restcountries.eu/rest/v2/all).
 
 ## Getting Started
 
